@@ -1,0 +1,60 @@
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\VelocityUI.exe.config
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\VelocityUI.exe
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\VelocityUI.pdb
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\FluentTransitions.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.Buffers.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.IO.Pipelines.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.Memory.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.Numerics.Vectors.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.Text.Json.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\bin\Release\System.ValueTuple.xml
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.AssemblyReference.cache
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.Form1.resources
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.Properties.Resources.resources
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.GenerateResource.cache
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.CoreCompileInputs.cache
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.Up2Date
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.exe
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.pdb
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.Fody.CopyLocal.cache
+C:\Users\emac3\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\VelocityUI.exe.config
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\VelocityUI.exe
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\VelocityUI.pdb
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\FluentTransitions.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.Buffers.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.IO.Pipelines.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.Memory.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.Numerics.Vectors.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.Text.Json.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\bin\Release\System.ValueTuple.xml
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.AssemblyReference.cache
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.Form1.resources
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.Properties.Resources.resources
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.GenerateResource.cache
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.CoreCompileInputs.cache
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.Fody.CopyLocal.cache
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.csproj.Up2Date
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.exe
+C:\Users\segcent\Desktop\usb\computer windows\source\repos\Velocity\VelocityUI\obj\Release\VelocityUI.pdb

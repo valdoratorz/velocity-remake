@@ -1,0 +1,2 @@
+Exception Number Code: 74
+[Stack Frame 0] Inside null: 74; Error setting K32 Query Working.: 74
