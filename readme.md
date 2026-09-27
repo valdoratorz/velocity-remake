@@ -1,4 +1,4 @@
-# Velocity UI remake by gigzaz aka @valdoratorzzzz
+# Velocity UI remake by gigzaz aka @segcent
 <p align="center">
   <img src="imgs/img1.png">
 </p>
